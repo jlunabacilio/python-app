@@ -1,4 +1,4 @@
-## python-app
+## Python-app
 
 Python app to deploy in Docker <br>
 Is to use with Docker compose or Docker stack
@@ -30,5 +30,6 @@ Run Docker Stack command:
 Check your stacks
 ```
   docker stack ls
+  
   docker service ls
 ```
