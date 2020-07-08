@@ -1,0 +1,11 @@
+version: '3'
+
+services: 
+    web:
+        image: jluna/stackdemo
+        build: .
+        ports:
+            - "80:80"
+    
+    redis:
+        image: redis:alpine
