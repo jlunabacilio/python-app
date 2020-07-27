@@ -7,7 +7,7 @@ Is to use with Docker compose or Docker stack
 
 Clone the repository:
 ```
-  git clone https://github.com/jlunabacilio/chronometer-app.git
+  git https://github.com/lunabacilio/python-app.git
 ```
 Join to the folder:
 ```
